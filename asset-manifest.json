@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.25dda2b5.chunk.css",
-    "main.js": "/static/js/main.3336a0ac.chunk.js",
-    "main.js.map": "/static/js/main.3336a0ac.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.522fd1c1.js",
-    "runtime-main.js.map": "/static/js/runtime-main.522fd1c1.js.map",
-    "static/js/2.214e7156.chunk.js": "/static/js/2.214e7156.chunk.js",
-    "static/js/2.214e7156.chunk.js.map": "/static/js/2.214e7156.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.99820a4afeb1b1a9116207333bbdfacb.js": "/precache-manifest.99820a4afeb1b1a9116207333bbdfacb.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.25dda2b5.chunk.css.map": "/static/css/main.25dda2b5.chunk.css.map",
-    "static/js/2.214e7156.chunk.js.LICENSE.txt": "/static/js/2.214e7156.chunk.js.LICENSE.txt",
-    "static/media/hometop.styles.css": "/static/media/bg.4a8d9265.jpg",
-    "static/media/logo.svg": "/static/media/logo.59839c70.svg",
-    "static/media/homepage.styles.css": "/static/media/meditate.36dcff3d.png"
+    "main.css": "/event-registration/static/css/main.4034ffed.chunk.css",
+    "main.js": "/event-registration/static/js/main.3336a0ac.chunk.js",
+    "main.js.map": "/event-registration/static/js/main.3336a0ac.chunk.js.map",
+    "runtime-main.js": "/event-registration/static/js/runtime-main.a36f9562.js",
+    "runtime-main.js.map": "/event-registration/static/js/runtime-main.a36f9562.js.map",
+    "static/js/2.5d2091ae.chunk.js": "/event-registration/static/js/2.5d2091ae.chunk.js",
+    "static/js/2.5d2091ae.chunk.js.map": "/event-registration/static/js/2.5d2091ae.chunk.js.map",
+    "index.html": "/event-registration/index.html",
+    "precache-manifest.eaaa89860cbf4568ce47fdc66ee29ecc.js": "/event-registration/precache-manifest.eaaa89860cbf4568ce47fdc66ee29ecc.js",
+    "service-worker.js": "/event-registration/service-worker.js",
+    "static/css/main.4034ffed.chunk.css.map": "/event-registration/static/css/main.4034ffed.chunk.css.map",
+    "static/js/2.5d2091ae.chunk.js.LICENSE.txt": "/event-registration/static/js/2.5d2091ae.chunk.js.LICENSE.txt",
+    "static/media/hometop.styles.css": "/event-registration/static/media/bg.4a8d9265.jpg",
+    "static/media/logo.svg": "/event-registration/static/media/logo.59839c70.svg",
+    "static/media/homepage.styles.css": "/event-registration/static/media/meditate.36dcff3d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.522fd1c1.js",
-    "static/js/2.214e7156.chunk.js",
-    "static/css/main.25dda2b5.chunk.css",
+    "static/js/runtime-main.a36f9562.js",
+    "static/js/2.5d2091ae.chunk.js",
+    "static/css/main.4034ffed.chunk.css",
     "static/js/main.3336a0ac.chunk.js"
   ]
 }
